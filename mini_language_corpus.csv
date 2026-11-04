@@ -1,0 +1,121 @@
+text_id,split,text
+t001,train,the student explains the short document carefully.
+t002,train,the researcher reviews the input sentence in the notebook.
+t003,train,the assistant learns the useful response before evaluation.
+t004,train,the programmer evaluates the language pattern with simple features.
+t005,train,the analyst predicts the vocabulary item after preprocessing.
+t006,train,the reader organizes the text sequence during training.
+t007,train,the teacher classifies the next word for the user.
+t008,train,the model summarizes the evaluation result with context.
+t009,train,the system compares the model output quickly.
+t010,train,the team generates the training example clearly.
+t011,train,the student explains the short document carefully.
+t012,train,the researcher reviews the input sentence in the notebook.
+t013,train,the assistant learns the useful response before evaluation.
+t014,train,the programmer evaluates the language pattern with simple features.
+t015,train,the analyst predicts the vocabulary item after preprocessing.
+t016,train,the reader organizes the text sequence during training.
+t017,train,the teacher classifies the next word for the user.
+t018,train,the model summarizes the evaluation result with context.
+t019,train,the system compares the model output quickly.
+t020,train,the team generates the training example clearly.
+t021,train,the student explains the short document carefully.
+t022,train,the researcher reviews the input sentence in the notebook.
+t023,train,the assistant learns the useful response before evaluation.
+t024,train,the programmer evaluates the language pattern with simple features.
+t025,train,the analyst predicts the vocabulary item after preprocessing.
+t026,train,the reader organizes the text sequence during training.
+t027,train,the teacher classifies the next word for the user.
+t028,train,the model summarizes the evaluation result with context.
+t029,train,the system compares the model output quickly.
+t030,train,the team generates the training example clearly.
+t031,train,the student explains the short document carefully.
+t032,train,the researcher reviews the input sentence in the notebook.
+t033,train,the assistant learns the useful response before evaluation.
+t034,train,the programmer evaluates the language pattern with simple features.
+t035,train,the analyst predicts the vocabulary item after preprocessing.
+t036,train,the reader organizes the text sequence during training.
+t037,train,the teacher classifies the next word for the user.
+t038,train,the model summarizes the evaluation result with context.
+t039,train,the system compares the model output quickly.
+t040,train,the team generates the training example clearly.
+t041,train,the student explains the short document carefully.
+t042,train,the researcher reviews the input sentence in the notebook.
+t043,train,the assistant learns the useful response before evaluation.
+t044,train,the programmer evaluates the language pattern with simple features.
+t045,train,the analyst predicts the vocabulary item after preprocessing.
+t046,train,the reader organizes the text sequence during training.
+t047,train,the teacher classifies the next word for the user.
+t048,train,the model summarizes the evaluation result with context.
+t049,train,the system compares the model output quickly.
+t050,train,the team generates the training example clearly.
+t051,train,the student explains the short document carefully.
+t052,train,the researcher reviews the input sentence in the notebook.
+t053,train,the assistant learns the useful response before evaluation.
+t054,train,the programmer evaluates the language pattern with simple features.
+t055,train,the analyst predicts the vocabulary item after preprocessing.
+t056,train,the reader organizes the text sequence during training.
+t057,train,the teacher classifies the next word for the user.
+t058,train,the model summarizes the evaluation result with context.
+t059,train,the system compares the model output quickly.
+t060,train,the team generates the training example clearly.
+t061,train,the student explains the short document carefully.
+t062,train,the researcher reviews the input sentence in the notebook.
+t063,train,the assistant learns the useful response before evaluation.
+t064,train,the programmer evaluates the language pattern with simple features.
+t065,train,the analyst predicts the vocabulary item after preprocessing.
+t066,train,the reader organizes the text sequence during training.
+t067,train,the teacher classifies the next word for the user.
+t068,train,the model summarizes the evaluation result with context.
+t069,train,the system compares the model output quickly.
+t070,train,the team generates the training example clearly.
+t071,train,the student explains the short document carefully.
+t072,train,the researcher reviews the input sentence in the notebook.
+t073,train,the assistant learns the useful response before evaluation.
+t074,train,the programmer evaluates the language pattern with simple features.
+t075,train,the analyst predicts the vocabulary item after preprocessing.
+t076,train,the reader organizes the text sequence during training.
+t077,train,the teacher classifies the next word for the user.
+t078,train,the model summarizes the evaluation result with context.
+t079,train,the system compares the model output quickly.
+t080,train,the team generates the training example clearly.
+t081,train,the student explains the short document carefully.
+t082,train,the researcher reviews the input sentence in the notebook.
+t083,train,the assistant learns the useful response before evaluation.
+t084,train,the programmer evaluates the language pattern with simple features.
+t085,train,the analyst predicts the vocabulary item after preprocessing.
+t086,train,the reader organizes the text sequence during training.
+t087,train,the teacher classifies the next word for the user.
+t088,train,the model summarizes the evaluation result with context.
+t089,train,the system compares the model output quickly.
+t090,train,the team generates the training example clearly.
+t091,validation,the student explains the short document carefully.
+t092,validation,the researcher reviews the input sentence in the notebook.
+t093,validation,the assistant learns the useful response before evaluation.
+t094,validation,the programmer evaluates the language pattern with simple features.
+t095,validation,the analyst predicts the vocabulary item after preprocessing.
+t096,validation,the reader organizes the text sequence during training.
+t097,validation,the teacher classifies the next word for the user.
+t098,validation,the model summarizes the evaluation result with context.
+t099,validation,the system compares the model output quickly.
+t100,validation,the team generates the training example clearly.
+t101,validation,the student explains the short document carefully.
+t102,validation,the researcher reviews the input sentence in the notebook.
+t103,validation,the assistant learns the useful response before evaluation.
+t104,validation,the programmer evaluates the language pattern with simple features.
+t105,validation,the analyst predicts the vocabulary item after preprocessing.
+t106,test,the reader organizes the text sequence during training.
+t107,test,the teacher classifies the next word for the user.
+t108,test,the model summarizes the evaluation result with context.
+t109,test,the system compares the model output quickly.
+t110,test,the team generates the training example clearly.
+t111,test,the student explains the short document carefully.
+t112,test,the researcher reviews the input sentence in the notebook.
+t113,test,the assistant learns the useful response before evaluation.
+t114,test,the programmer evaluates the language pattern with simple features.
+t115,test,the analyst predicts the vocabulary item after preprocessing.
+t116,test,the reader organizes the text sequence during training.
+t117,test,the teacher classifies the next word for the user.
+t118,test,the model summarizes the evaluation result with context.
+t119,test,the system compares the model output quickly.
+t120,test,the team generates the training example clearly.
