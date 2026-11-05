@@ -1,12 +1,15 @@
+import re
 import pandas as pd
+import numpy as np
+from scipy.sparse import csr_matrix
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score, top_k_accuracy_score, log_loss
 
 def load_corpus(csv_file):
-    csv_data = pd.read_csv(csv_file)
-    df = pd.DataFrame(csv_data)
-    return df
+    return pd.read_csv(csv_file)
 
 def tokenize(text):
-    pass
+    return re.findall()
 
 def build_vocabulary(train_texts, min_frequency=1):
     pass
@@ -33,4 +36,10 @@ def generate_text(model, prompt, token_to_id, id_to_token, max_new_tokens=20, te
     pass
 
 def main():
+    print("Loading corpus...")
     corpus = load_corpus("mini_language_corpus.csv")
+    print("Corpus loaded.")
+    print(corpus)
+
+if __name__ == "__main__":
+    main()
