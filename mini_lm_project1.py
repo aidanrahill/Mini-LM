@@ -1,3 +1,4 @@
+import os
 import re
 import pandas as pd
 import numpy as np
@@ -6,10 +7,13 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, top_k_accuracy_score, log_loss
 
 def load_corpus(csv_file):
-    return pd.read_csv(csv_file)
+    assert os.path.isfile(csv_file), "No CSV File Found at {csv_file}"
+    df = pd.read_csv(csv_file)
+    return df
 
 def tokenize(text):
-    return re.findall()
+    low_text = text.lower()
+    return re.findall(r'\w+|[.!?]', low_text)
 
 def build_vocabulary(train_texts, min_frequency=1):
     pass
@@ -35,11 +39,18 @@ def predict_next_token(model, context_tokens, token_to_id, id_to_token):
 def generate_text(model, prompt, token_to_id, id_to_token, max_new_tokens=20, temperature=1.0, seed=42):
     pass
 
-def main():
+def init():
     print("Loading corpus...")
     corpus = load_corpus("mini_language_corpus.csv")
     print("Corpus loaded.")
-    print(corpus)
+    print("Tokenizing corpus...")
+    tokens = []
+    for i in range(corpus.shape[0]):
+        text = corpus.iloc[i, 2]
+        new_tokens = tokenize(text)
+        tokens.append(new_tokens)  
+        print(new_tokens)
+    print("Corpus tokenized.")
 
 if __name__ == "__main__":
-    main()
+    init()
